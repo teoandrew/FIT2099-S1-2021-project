@@ -19,3 +19,5 @@ The player is also free to roam around the map and interact with almost every si
 ### Purpose of Project
 
 This project focused on students being able to apply Object Oriented Design and Principles such as the SOLID principles, proper abstraction and encapsulation, good practices for refactoring, getting rid and preventing code smells, and other design techniques like dependency injection for instance.
+
+There was also an emphasis on familiarising students with the Unified Modeling Language (UML) through UML Diagram creations such as a class diagram and multiple sequence diagrams for the system of the project. 
